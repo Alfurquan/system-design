@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "name": "Phone XL",
+    "price": 799.99,
+    "category_id": "c1",
+    "seller_id": "s1"
+  },
+  {
+    "id": "p2",
+    "name": "Running Shoes",
+    "price": 120.0,
+    "category_id": "c2",
+    "seller_id": "s2"
+  },
+  {
+    "id": "p3",
+    "name": "Bluetooth Speaker",
+    "price": 59.5,
+    "category_id": "c1",
+    "seller_id": "s1"
+  }
+]

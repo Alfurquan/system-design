@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": "p1",
+    "user": "alice",
+    "rating": 5,
+    "comment": "Excellent phone!"
+  },
+  {
+    "product_id": "p1",
+    "user": "bob",
+    "rating": 4,
+    "comment": "Good but battery life is short."
+  },
+  {
+    "product_id": "p3",
+    "user": "carol",
+    "rating": 4,
+    "comment": "Great sound quality!"
+  }
+]

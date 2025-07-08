@@ -1,0 +1,12 @@
+[
+  {
+    "id": "s1",
+    "name": "TechCorp",
+    "rating": 4.5
+  },
+  {
+    "id": "s2",
+    "name": "Sportify",
+    "rating": 4.2
+  }
+]

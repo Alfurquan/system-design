@@ -1,0 +1,6 @@
+1. Read chapter 2 from book
+2. Practise some questions
+3. Read algomaster blogs on SQL vs noSQL, types of db, Acid transactions, Database indexes
+4. Go to hello interview and read on dynamo db and cassandra blogs
+5. Read graph db and mongo db blogs as well
+6. Take notes along the way
